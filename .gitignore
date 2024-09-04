@@ -1,0 +1,14 @@
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore environment variables
+.env
+
+# Ignore temporary files created by editors/IDEs
+.idea/
+.vscode/
+*.swpi
