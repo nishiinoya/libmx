@@ -51,7 +51,7 @@ To use the library in your project:
 3. Include the header file `libmx.h` in your source code.
 
 ```bash
-git clone git@github.com:nishiinoya/Libmx.git
+git clone git@github.com:nishiinoya/libmx.git
 cd libmx
 make
 ```
