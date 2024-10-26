@@ -2,14 +2,11 @@
 #define LIBMX_H
 
 #include <fcntl.h>
-#include <malloc/malloc.h>
 #include <stdbool.h>
 #include <stdlib.h>
 #include <unistd.h>
 #include <stdio.h>
 #include <wchar.h>
-
-#include <stdio.h>
 
 #if defined(__linux__)
 #include <malloc.h>
